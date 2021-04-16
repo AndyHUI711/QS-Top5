@@ -3,6 +3,9 @@ TEAM112 QS Top5 Hackust
 
 Our code is in branches MASTER
 
+E'ELRILS
+(Elderly's Emotion and Language Recognition Intelligent Linkage System)
+
 Executive Summary
 
 Overview
