@@ -1,5 +1,6 @@
 # QS-Top5
 TEAM112 QS Top5 Hackust
+Our code is in MASTER
 Executive Summary
 Overview
 In recent years, population aging and empty nester problem had become a hot topic globally, 78.1% of the elderly experienced moderate to severe loneliness in Anhui province. In China, the percentage of the elderly who prefer to receive home care increased around 5% from 2000 to 2010. Elderly people desire to be accompanied while they are less willing to bother their children. To best serve and understand elderly people, we utilized facial emotion plus audio recognition technology and AIoT (Artificial Internet of Things) to develope a system that can realize mutual care between family members.
